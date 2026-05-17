@@ -1,1 +1,2 @@
-this is basic Tic-Tac-Toe game 
+This is basic Tic-Tac-Toe game 
+Author -> Chintan Makvana
